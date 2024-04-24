@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["binop", "positionals", "Positionals", "Skipable"],
+  "CodeGPT.apiKey": "Ollama",
+  "files.associations": {
+    "*.of": "typescript"
+  }
+}
